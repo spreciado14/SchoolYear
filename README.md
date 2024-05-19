@@ -17,3 +17,5 @@
 - [Analysis of Algorithms](https://github.com/)
 - [Software Engineering](https://github.com/)
 - [Database Management Systems](https://github.com/)
+- [Finite Automata](https://github.com/)
+
